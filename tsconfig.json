@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+      "pretty": true,
+      "allowSyntheticDefaultImports": true,
+      "target": "es5",
+      "diagnostics": true,
+      "noEmitOnError": true,
+      "noImplicitThis": true,
+      "noUnusedParameters": true,
+      "noUnusedLocals": true,
+      "skipLibCheck": true,
+      "outDir": "./dist"
+  },
+  "include": [
+      "typings/**/*.d.ts",
+      "src"
+  ],
+  "exclude": [
+      "dist",
+      "node_modules"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  tasks: [
+    {
+      name: config
+      source: examples/source/source.txt
+      target: examples/target/target.txt
+    }
+  ]
+}

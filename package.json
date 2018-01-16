@@ -1,0 +1,21 @@
+{
+  "name": "file-switcher",
+  "version": "1.0.0",
+  "description": "switch files",
+  "main": "dist/file-switcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "hjson": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/hjson": "^2.4.0",
+    "@types/node": "^9.3.0"
+  }
+}
